@@ -181,7 +181,8 @@ function App() {
                     border: 'none',
                     outline: 'none',
                     height: '48px',
-                    lineHeight: '48px'
+                    lineHeight: '48px',
+                    color: 'white'
                   }}
                 />
                 <div className="ml-3 px-3 py-2 bg-blue-600 text-white cursor-pointer rounded mobile-search-icon">

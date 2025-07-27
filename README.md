@@ -6,7 +6,7 @@ A modern e-commerce store page built with React.js, featuring advanced product f
 
 ## 🚀 Live Demo
 
-🌐 **[View Live Application](https://clo-set-connect-store.vercel.app)**
+🌐 **[View Live Application](https://clo-set-connect-store.netlify.app)** <!-- Update with your actual Netlify URL -->
 
 ## 📱 Preview
 
